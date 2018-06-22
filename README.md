@@ -1,4 +1,4 @@
-# Curso de Desarrollador Programador Web - Camada 3430
+# Curso Programador Web - Camada 3430
 ## Apuntes y ejercicios
 Este es nuestro repositorio para compartir la documentación del curso. Clase a clase voy a subir los materiales necesarios para trabajar el tema en cuestión.
 Cada clase va a tener su carpeta con el número de clase que corresponda. Dentro van a encontrar 2 carpetas:
