@@ -20,3 +20,8 @@ Para poder trabajar cada uno en su maquina y mantenerse actualizados con lo que 
 
 Este repositorio va a estar en constante construcción, así que si surge alguna duda o necesidad de material extra no duden en escribirme a anaturrillo+ch@gmail.com.
 Nos vemos en clase!!
+
+
+## Documentación para hoy y el resto de tu vida
+
+MDN - documentación de Javascript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
