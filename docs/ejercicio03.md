@@ -1,4 +1,4 @@
-##Modificación del algoritmo del ejercicio02
+## Modificación del algoritmo del ejercicio02
 
 - definir un array cuyos valores sean los días de la semana
 - solicitar nombre
