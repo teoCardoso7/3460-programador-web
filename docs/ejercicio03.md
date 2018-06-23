@@ -1,10 +1,6 @@
-### Modificación del algoritmo del ejercicio02
+Modificación del algoritmo del ejercicio01
 
-- definir un array cuyos valores sean los días de la semana
-- solicitar nombre
-- solicitar un número entre 0 y 100
-- validar que el numero cumpla la condición. Si no la cumple volver a pedir el valor.
-- responderle al usuario que vuelva el día de la semana que corresponda según el número que ingresó.
-
-
+1 - solicitar nombre
+2 - solicitar numero
+3 - si el numero es mayor a 20 desearle un buen dia, si esta entre 5 y 20 desearle un pésimo día y si es menor que 5 decirle que vuelva mañana. (definir los rangos para que no se superpongan)
 

@@ -12,7 +12,7 @@ Para poder trabajar cada uno en su maquina y mantenerse actualizados con lo que 
 1. Hagan un Fork del repositorio en su GitHub.
 2. En la consola posicionense en la carpeta donde van a guardar las clases
 3. Clonen el repositorio en su maquina local usando el comando `git clone <URL_del_repositorio en_su_GitHub>`.
-4. Entren al repositorio haciendo `cd programadorWeb-2745`. 
+4. Entren al repositorio haciendo `cd 3460-programador-web`. 
 5. Luego ejecuten el comando `git remote add course https://github.com/anaturrillo/ch_programador_web_3430.git` para vincular su repo con el mio.
 6. Verifiquen que tienen agregados los dos origins con el comando `git remote -v`.
 7. Cada vez que quieran actualizar el repositorio con lo que subí hagan un `git pull course master`.

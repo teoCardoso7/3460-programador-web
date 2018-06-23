@@ -1,5 +1,2 @@
-### Modificación del algoritmo del ejercicio01
-- solicitar nombre
-- solicitar numero
-- si el numero es mayor a 20 desearle un buen dia, si esta entre 5 y 20 desearle un pésimo día y si es menor que 5 decirle que vuelva mañana. (definir los rangos para que no se superpongan)
+Generar un algoritmo que mediante un prompt() le pida al usuario su nombre y luego en un alert() lo salude y le desee un buen día.
 
