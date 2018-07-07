@@ -1,20 +1,13 @@
-var gender = prompt("Please enter your gender");
+var gender = prompt("Please enter your gender").toLowerCase;
 var age = prompt("Please enter your age");
 var pronoun;
-var pronounX = 0;
 if (gender == "male" || gender == "Male") {
   pronoun = "Sr. "
-  pronounX++;
-
 }
 if (gender == "female" || gender == "Female") {
   pronoun = "Sra. "
-  pronounX++;
-
-}
-if (pronounX == 0 ) {
+} else {
   pronoun = "Srx. "
-
 }
 
 if (age < = 18) {
