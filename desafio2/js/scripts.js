@@ -1,4 +1,4 @@
-var gender = prompt("Please enter your gender").toLowerCase;
+var gender = prompt("Please enter your gender").toLowerCase();
 var age = prompt("Please enter your age");
 var pronoun;
 if (gender == "male") {

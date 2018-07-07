@@ -30,19 +30,7 @@
   width: 100%;
 }
 
-#Name{
-  width: 40%
-}
-
-#lastName{
-  width: 40%;
-}
-
-#DNI{
-  width: 40%;
-}
-
-#email{
+input{
   width: 40%;
 }
 
